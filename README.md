@@ -1,2 +1,2 @@
 # leetcodePractise
-在leetcode上的练习题
+在leetcode上的练习的题做个记录
